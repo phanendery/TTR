@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>TTR</h1>
+      <h2>project on hiatus</h2>
     </div>
   );
 }
